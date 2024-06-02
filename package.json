@@ -1,0 +1,32 @@
+{
+  "name": "vendor-twitter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000v\u0000e\u0000n\u0000d\u0000o\u0000r\u0000-\u0000t\u0000w\u0000i\u0000t\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehriyarnadeem-10p/vendor-twitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shehriyarnadeem-10p/vendor-twitter/issues"
+  },
+  "homepage": "https://github.com/shehriyarnadeem-10p/vendor-twitter#readme",
+  "dependencies": {
+    "@aws-sdk/util-dynamodb": "^3.588.0",
+    "aws-sdk": "^2.1632.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "needle": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/needle": "^3.3.0",
+    "@types/node": "^20.13.0",
+    "typescript": "^5.4.5"
+  }
+}
